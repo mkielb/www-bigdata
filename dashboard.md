@@ -10,7 +10,7 @@
 
 ### 16.01.2017
 
-* ?
+* System zarządzania treścią wykorzystujący komponenty webowe z biblioteki *Polymer* - omówienie tekstu pracy magisterskiej (M. Kiełb)
 
 ### 23.01.2017
 
